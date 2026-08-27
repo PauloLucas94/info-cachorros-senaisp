@@ -12,8 +12,6 @@
 <text x="458" y="127" fill="#2F2F3A" font-family="Segoe UI, Arial" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">NOME DO CACHORRO</text>
 <text x="824" y="122" fill="#C6C6D0" font-family="Segoe UI, Arial" font-size="14" font-weight="400" text-anchor="end" letter-spacing="0">▾</text>
 <rect x="856" y="80" width="400" height="64" rx="10" fill="#0D6ABF"/>
-<text x="874" y="106" fill="#BBD9F2" font-family="Segoe UI, Arial" font-size="9" font-weight="600" text-anchor="start" letter-spacing="1.2">ANIMAL SELECIONADO</text>
-<text x="874" y="127" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">Nome Selecionado · CFP Selecionado</text>
 <rect x="24" y="160" width="400" height="600" rx="12" fill="#FFFFFF" stroke="#E3E3E3"/>
 <rect x="40" y="176" width="34" height="4" rx="2" fill="#0D6ABF"/>
 <text x="224.0" y="460.0" fill="#8A8A96" font-family="Segoe UI, Arial" font-size="13" font-weight="600" text-anchor="middle" letter-spacing="1">TABELA · 16 CACHORROS</text>

@@ -1,0 +1,14 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+<rect width="500" height="500" fill="#FFFFFF"/>
+<rect x="0.5" y="0.5" width="499" height="499" rx="8" fill="none" stroke="#E3E3E3"/>
+<clipPath id="corte"><rect x="0" y="0" width="500" height="500" rx="8"/></clipPath>
+<g clip-path="url(#corte)" opacity="0.07">
+<g transform="translate(271.2,277.2) scale(4.2)">
+      <rect x="20" y="20" width="24" height="24" rx="4" fill="none" stroke="#0D6ABF" stroke-width="4.5"/>
+      <rect x="28" y="28" width="8" height="8" rx="1.5" fill="#0D6ABF"/>
+      <path d="M26 20v-9M38 20v-9M26 44v9M38 44v9M20 26h-9M20 38h-9M44 26h9M44 38h9"
+            stroke="#0D6ABF" stroke-width="4" stroke-linecap="round"/></g>
+</g>
+<rect x="20" y="18" width="40" height="4" rx="2" fill="#0D6ABF"/>
+<text x="20" y="46" fill="#2F2F3A" font-family="Segoe UI, Arial" font-size="14" font-weight="600" letter-spacing="0.8">MICROCHIPADOS POR UNIDADE</text>
+</svg>
